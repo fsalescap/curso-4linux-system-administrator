@@ -10,3 +10,6 @@ Neste projeto encontra-se disponíveis alguns comandos do linux.
     * [Acessando a Máquina utilizando SSH](/ssh/ssh.md)
     * [File System Hierarchy Standard](/file-system-standard/file-system-standard.md)
 
+
+## Questionário
+ 1. https://rentry.co/lpi703live2
